@@ -1,2 +1,2 @@
 # Projetos_Python
- Projetos deitos em Python com meu amigo Lucas.
+ Projetos feitos em Python com meu amigo Lucas.
